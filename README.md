@@ -35,5 +35,5 @@ A Flutter application that provides a dashboard for viewing cryptocurrency data.
 1. **Clone the repository:**
 
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/Mrkhan012/cypto>
    cd <project-directory>
